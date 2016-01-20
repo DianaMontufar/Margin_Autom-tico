@@ -1,0 +1,21 @@
+.div{
+	text-align: center;
+	border:11px yellow solid;
+	width: 250px;
+	height: 150px;
+	padding-top: 20px; 
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+.div2{
+	
+	border:11px yellow solid;
+	width: 250px;
+	height: 150px;
+	padding-top: 20px; 
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	margin: 0 auto;
+}
